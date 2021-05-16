@@ -1,5 +1,5 @@
 --[[
-Made by Nev Zandra
+Made by zSropzy#4972
 --]]
 local ScreenGui = Instance.new("ScreenGui")
 local MainFrame = Instance.new("ImageLabel")
@@ -132,7 +132,7 @@ local function OOTW_fake_script() -- ScreenGui.LocalScript
     game:GetService("StarterGui"):SetCore("SendNotification",{
     Title    = "zEternal",
     Text     = "Created By zSropzy",
-    text2    = "Gui Created By zSropzy#7175",
+    text2    = "Gui Created By zSropzy#4972",
     Duration = 10,
     })
 end
